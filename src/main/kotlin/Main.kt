@@ -1,5 +1,3 @@
-import sorting.InsertionSort
-import sorting.SelectionSort
 import stack.MinMaxStack
 
 //import linkedlist.ProgramTest
